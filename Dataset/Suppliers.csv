@@ -1,0 +1,201 @@
+Supplier_ID,Supplier_Name,Country,Lead_Time_Days,Rating,Contact_Type
+1,Boone PLC,Equatorial Guinea,30,2.6,Portal
+2,Johnson-Michael,Bahamas,8,4.9,Email
+3,Pope-Flores,Samoa,22,3.6,Email
+4,Carey Inc,Qatar,7,4.5,Portal
+5,"Cook, Carter and Collier",Martinique,5,3.5,Email
+6,Jensen PLC,Palau,2,4.9,Portal
+7,Hernandez and Sons,Reunion,27,4.2,Portal
+8,"Jones, Fisher and Todd",Singapore,21,2.9,Email
+9,Hernandez-Russell,Cuba,9,2.9,Email
+10,Coffey and Sons,Cuba,23,4,Portal
+11,Bryant-Dillon,France,3,2.6,Portal
+12,Ramirez-Wood,Northern Mariana Islands,6,4.3,Email
+13,Dixon-Holt,United States Virgin Islands,6,3.7,Phone
+14,Pierce and Sons,Rwanda,19,4.5,Phone
+15,Ruiz-White,Somalia,27,4.7,Portal
+16,Moore-King,Cyprus,8,2.6,Phone
+17,"Webb, Miller and Miller",Kiribati,13,4.3,Phone
+18,Lynch LLC,Iceland,30,2.6,Portal
+19,Anthony Group,Tuvalu,16,3.9,Portal
+20,Clark PLC,Comoros,24,3.7,Portal
+21,Peterson-Ballard,Qatar,7,3.9,Phone
+22,Allen-Yoder,Holy See (Vatican City State),25,3.7,Portal
+23,Hanson Group,Gambia,29,3.9,Email
+24,Ayers-Smith,Reunion,18,2.9,Phone
+25,"Walker, Watts and Smith",Taiwan,28,3.2,Phone
+26,Johnson-Taylor,Turkmenistan,16,2.5,Portal
+27,"Johnson, Rivera and Payne",Turkey,18,3.4,Email
+28,"Landry, Hopkins and Brown",San Marino,30,2.5,Phone
+29,"Grant, Delacruz and Butler",Niue,26,4.1,Phone
+30,Armstrong and Sons,Singapore,25,2.7,Portal
+31,Stark Group,Croatia,28,3.5,Portal
+32,Christian Inc,Tajikistan,23,3.7,Portal
+33,Banks and Sons,Hong Kong,6,4,Phone
+34,Rivera-Alvarado,San Marino,15,4.1,Email
+35,Mitchell-Cain,Northern Mariana Islands,5,3.8,Email
+36,"Cruz, Cook and Obrien",Falkland Islands (Malvinas),3,4.6,Email
+37,Clark-Washington,Switzerland,7,4.7,Email
+38,Middleton Ltd,Antigua and Barbuda,5,3.7,Email
+39,Lopez and Sons,Saint Lucia,3,3.9,Phone
+40,"Whitney, Mitchell and Williams",Armenia,23,3.7,Portal
+41,Santiago-Stewart,Egypt,24,4,Email
+42,"Brock, Wilson and Robinson",Norway,13,3.1,Portal
+43,Smith Inc,Myanmar,4,2.5,Email
+44,Ferguson-Williams,Libyan Arab Jamahiriya,22,3.7,Email
+45,"Montgomery, Patel and Hall",Rwanda,16,4.5,Email
+46,"Cain, Hall and Cain",Swaziland,13,3.9,Phone
+47,"Miller, Lowe and Carey",Tuvalu,28,3.4,Portal
+48,"Goodman, Gonzalez and Vance",Luxembourg,3,4.6,Phone
+49,Hammond-Nelson,French Polynesia,18,2.6,Email
+50,"Parrish, Diaz and Clark",Togo,28,3.3,Email
+51,Carpenter-Moody,Anguilla,18,2.7,Portal
+52,Bush Group,Palestinian Territory,9,3.8,Email
+53,"Evans, Nguyen and Johnson",Saint Vincent and the Grenadines,8,3.8,Email
+54,"Jenkins, Reynolds and Jackson",Russian Federation,20,4.1,Email
+55,Clark-Barnett,Costa Rica,19,4.4,Phone
+56,"Norris, Miller and Pacheco",El Salvador,25,2.8,Portal
+57,Moore PLC,Guadeloupe,20,3.4,Phone
+58,Adams Ltd,Belize,24,4.2,Email
+59,Jimenez-Herrera,Martinique,7,4.5,Portal
+60,Gill Inc,Zimbabwe,14,3.8,Portal
+61,"Barnes, Nelson and Vang",Bahrain,7,3.8,Portal
+62,Perez PLC,Israel,16,4.8,Phone
+63,Martin Group,Albania,19,5,Phone
+64,Cooper Inc,Bouvet Island (Bouvetoya),29,3.4,Portal
+65,Contreras-Hawkins,Honduras,15,4.6,Phone
+66,"Powell, Gregory and Taylor",Svalbard & Jan Mayen Islands,21,3.1,Portal
+67,Cantrell LLC,Palau,8,3.4,Portal
+68,Watson PLC,Kyrgyz Republic,25,3.1,Phone
+69,Miranda LLC,United States Virgin Islands,16,4.9,Email
+70,Brown-Flores,France,25,2.6,Phone
+71,Navarro-Turner,Netherlands Antilles,21,2.5,Email
+72,Walter-Miller,Turks and Caicos Islands,30,3.3,Phone
+73,Brown Ltd,Argentina,9,3,Phone
+74,Gordon-Williams,Puerto Rico,2,4.4,Portal
+75,"Green, Ramirez and Cain",Kyrgyz Republic,28,3.2,Portal
+76,York-Miller,Gambia,18,3.9,Portal
+77,Pierce LLC,Jordan,6,2.7,Phone
+78,"Brown, Kim and Logan",Congo,13,2.9,Phone
+79,Rivera Ltd,France,13,4.7,Email
+80,"Warren, Johnston and Washington",Afghanistan,9,3.1,Phone
+81,"Cortez, Lowe and Vaughn",Trinidad and Tobago,4,3.9,Portal
+82,Hudson-Henry,Philippines,8,4.3,Portal
+83,"Ford, Brown and Johnson",Palau,12,4.5,Email
+84,"Jones, Lewis and Johnson",Heard Island and McDonald Islands,17,4.6,Portal
+85,Lee-Smith,Zambia,24,3.9,Email
+86,Bryant PLC,Puerto Rico,21,4.1,Email
+87,Moreno Ltd,Niger,25,4.5,Phone
+88,Payne-Allen,Netherlands,4,4.5,Phone
+89,"Gibson, Alvarez and Harmon",Liberia,13,4.7,Phone
+90,Thompson-Oconnor,Philippines,15,4.8,Email
+91,Martin Ltd,Azerbaijan,29,4.4,Portal
+92,"Barnes, Hood and Holden",Namibia,22,4.6,Email
+93,Hernandez-Rodriguez,United States Virgin Islands,22,4.4,Phone
+94,"King, Johnson and Wilkinson",Germany,3,3.3,Email
+95,"Rojas, Bauer and Crawford",Ghana,12,3.8,Email
+96,"Mendoza, Frost and Ryan",American Samoa,12,3.8,Email
+97,Holland Ltd,Liberia,6,2.6,Portal
+98,"Ruiz, Owens and Shaw",Saint Kitts and Nevis,14,4.9,Portal
+99,Harrison LLC,Poland,20,3.8,Email
+100,"Parker, Davila and Wall",Falkland Islands (Malvinas),15,3.2,Phone
+101,Hill-Ramsey,Saudi Arabia,6,2.8,Email
+102,"Jones, Smith and Nelson",Uruguay,17,3.9,Email
+103,"Wolf, Lopez and Rodgers",Faroe Islands,19,3.5,Email
+104,Wilson Ltd,Vietnam,14,3.8,Portal
+105,Reese-Brown,Egypt,6,4.4,Phone
+106,Beck Ltd,Nicaragua,19,3,Phone
+107,Underwood PLC,Slovenia,22,3.9,Portal
+108,Robinson-Haley,Qatar,21,5,Portal
+109,"Spence, Adams and Anderson",Estonia,9,3.1,Phone
+110,Ayala Group,Guinea-Bissau,26,3.6,Portal
+111,Barker-Harris,Kiribati,20,2.7,Portal
+112,"Mejia, Valdez and Taylor",Jordan,15,3.6,Phone
+113,Perry-Bradley,Brazil,8,3.3,Portal
+114,"Floyd, Gonzalez and Goodman",Nepal,22,2.6,Phone
+115,"Nunez, Ferguson and Campbell",Jordan,7,5,Portal
+116,"Long, Sanders and Lam",Canada,28,5,Phone
+117,"Russo, Bryant and Castro",Cocos (Keeling) Islands,21,2.9,Email
+118,"Adams, Bryant and Reynolds",Lebanon,28,3.1,Portal
+119,Keller-Mitchell,Guam,13,2.9,Portal
+120,Galloway-Haynes,Cook Islands,29,2.7,Portal
+121,Allen-Smith,Uzbekistan,3,3.1,Portal
+122,"Friedman, Davis and Maxwell",Vanuatu,6,4.7,Phone
+123,Becker Inc,Marshall Islands,2,3.4,Email
+124,Williams-Mcpherson,Cambodia,11,3.6,Email
+125,Hoover-Perkins,Svalbard & Jan Mayen Islands,12,3,Portal
+126,"Hill, Hernandez and Mora",Kazakhstan,8,3,Portal
+127,Riggs-Fowler,Svalbard & Jan Mayen Islands,26,3.1,Phone
+128,"Cantu, Mckinney and Reeves",Macao,21,4.3,Email
+129,Moran-Martin,Denmark,24,4.2,Email
+130,Boone Inc,Solomon Islands,14,4,Portal
+131,Harrell-Melton,Saint Martin,18,2.6,Email
+132,"Allen, Gordon and Garcia",Namibia,3,3.2,Portal
+133,Stewart Ltd,Palestinian Territory,21,3.2,Phone
+134,"Fleming, Hill and Martinez",Australia,22,4.9,Email
+135,Russell-Duncan,Mauritania,14,4.2,Portal
+136,Stephens Group,Kazakhstan,29,4.8,Phone
+137,"Marquez, Matthews and Saunders",Ethiopia,29,2.8,Phone
+138,"Cruz, Fletcher and Miller",Morocco,29,4.7,Phone
+139,"Pierce, Allen and Howe",Tajikistan,9,4.9,Portal
+140,Adams-Noble,Martinique,24,2.7,Phone
+141,"Ramirez, Morris and Paul",Azerbaijan,17,4.7,Portal
+142,"Snyder, Taylor and Ortiz",Equatorial Guinea,4,3,Portal
+143,Chandler-Diaz,India,16,3.9,Portal
+144,Moss Inc,Egypt,2,2.6,Portal
+145,"Ferguson, Rose and Coleman",Tokelau,11,3.3,Phone
+146,Thomas Ltd,Liechtenstein,25,2.9,Phone
+147,"Cherry, Olson and Rogers",Korea,23,3.4,Portal
+148,"Gutierrez, Gibson and Warren",Yemen,11,3.1,Portal
+149,Bennett-Cook,Marshall Islands,10,4.5,Portal
+150,"Sanders, Johnson and Harrell",Afghanistan,10,4.7,Email
+151,Miller-Chapman,Macao,19,4.9,Email
+152,Dunn Ltd,Andorra,6,3.4,Phone
+153,Campbell LLC,Puerto Rico,23,2.8,Portal
+154,"Knight, Hudson and Woodard",Liechtenstein,14,3.8,Portal
+155,Yoder LLC,Mali,21,4.7,Portal
+156,Murphy PLC,Liechtenstein,9,3.5,Portal
+157,Mitchell-Ramirez,Liberia,6,3.6,Phone
+158,Allen and Sons,Croatia,21,3.3,Portal
+159,Baxter-Howell,Madagascar,6,3,Email
+160,Valentine-Ford,Denmark,20,3.9,Email
+161,Brown-Garcia,United States Virgin Islands,29,2.8,Portal
+162,White-Walker,Lebanon,24,4.7,Email
+163,"Wallace, Zavala and Garcia",Martinique,15,5,Email
+164,Willis-Hamilton,Mali,22,4.8,Email
+165,"Obrien, Barrett and Sanchez",Colombia,12,2.7,Portal
+166,"Brown, Evans and Flores",Pitcairn Islands,25,2.8,Phone
+167,Bullock PLC,Honduras,28,4.7,Portal
+168,"Butler, Molina and Moody",Mauritius,2,4.4,Phone
+169,"Parker, Arellano and Armstrong",Turkey,15,3.3,Portal
+170,Hernandez PLC,Aruba,28,4.7,Portal
+171,"Myers, Washington and Steele",Greenland,10,2.9,Email
+172,"James, Simmons and Smith",Belarus,5,2.8,Email
+173,"Perry, Dawson and Mclaughlin",Cameroon,26,5,Portal
+174,Green-Ritter,Holy See (Vatican City State),10,4,Portal
+175,Gregory LLC,Yemen,9,4,Email
+176,"Hinton, Carter and Glover",Italy,23,2.6,Email
+177,"Allison, Mason and Hopkins",Slovakia (Slovak Republic),24,4.4,Email
+178,Huang-Walker,Bahrain,18,4.6,Phone
+179,Miller-Smith,Reunion,24,4.1,Email
+180,Gilbert-Steele,Northern Mariana Islands,29,3.5,Phone
+181,Frost Inc,Singapore,6,2.9,Email
+182,Roberts Ltd,Suriname,3,3.5,Email
+183,Ford and Sons,Denmark,10,4.9,Email
+184,Williams-Smith,Peru,25,4.2,Email
+185,Warren-Hall,Georgia,26,3,Email
+186,Martinez Group,Thailand,16,4.7,Phone
+187,Parker Ltd,Romania,24,3.3,Phone
+188,"Brady, Burton and Miles",Zambia,30,3.1,Phone
+189,"Brown, Matthews and Steele",Greece,26,2.6,Portal
+190,"Terry, Golden and Meyer",Heard Island and McDonald Islands,28,3.5,Phone
+191,Garza PLC,Haiti,14,4,Portal
+192,Schultz-Hardy,Saint Pierre and Miquelon,20,4,Portal
+193,Mullins-Browning,Korea,22,4.7,Email
+194,Young PLC,Belarus,18,2.8,Phone
+195,"Price, Ramos and Banks",Bahamas,28,4.7,Email
+196,"Martin, Miranda and Jones",Comoros,18,3.8,Portal
+197,Riley and Sons,Bosnia and Herzegovina,3,3.9,Portal
+198,Gordon-Romero,Nigeria,26,4.1,Email
+199,Rose-Daniels,Singapore,8,3.2,Phone
+200,Bauer Ltd,China,30,3.3,Phone
