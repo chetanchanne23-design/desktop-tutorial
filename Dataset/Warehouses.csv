@@ -1,0 +1,66 @@
+Warehouse_ID,Warehouse_Name,City,Capacity,Manager,,,,,,,,,,,,,
+1,WH-Brownport,South Robynfort,35234,Laura Jones,,,,,,,,,,,,,
+2,WH-Simsfort,Cannonland,15910,Joshua Johnston,,,,,,,,,,,,,
+3,WH-East Hector,Garciaberg,32686,Stanley Robinson,,,,,,,,,,,,,
+4,WH-North Katelyn,West David,24295,Christopher Chandler,,,,,,,,,,,,,
+5,WH-Simmonsborough,South Rhondafurt,45182,Brenda Russell,,,,,,,,,,,,,
+6,WH-Paulmouth,Brandonshire,8574,Robert Vaughan,,,,,,,,,,,,,
+7,WH-Hendersonchester,South Terristad,38880,Ashley Hill,,,,,,,,,,,,,
+8,WH-Thomasville,Lake Douglas,14321,Daniel Nielsen,,,,,,,,,,,,,
+9,WH-Laurafurt,Ambertown,35381,Kathryn Mathews,,,,,,Warehouse_ID,INT,",",,,CREATE TABLE Inventory (,,
+10,WH-West Robertburgh,Port Anthonyberg,47342,Gary Berry,,,,,,Warehouse_Name,VARCHAR,",",,,Inventory_ID,INT,","
+11,WH-New Ethanshire,Holderville,34602,Diana Gibson,,,,,,City,VARCHAR,",",,,Product_ID,INT,","
+12,WH-Maxwellburgh,Port Katherine,10927,Kenneth Wright,,,,,,Capacity,INT,",",,,Warehouse_ID,INT,","
+13,WH-East Calebburgh,West Charles,37811,Desiree Tapia,,,,,,Manager,VARCHAR,,,,Stock_Quantity,INT,","
+14,WH-Michaeltown,Steventown,12416,Melinda Preston,,,,,,,,,,,Reorder_Level,INT,","
+15,WH-South Brooke,Wrightborough,16781,Parker Johnson,,,,,,,,,,,Safety_Stock,INT,","
+16,WH-Dennismouth,New Jamiefort,43367,George Mejia,,,,,,,,,,,Last_Updated,DATE,
+17,WH-Lake Ashleyfort,Zhangbury,40809,Kimberly Smith,,,,,,,,,,,);,,
+18,WH-South Ashleymouth,Mercerview,13867,Beth Carter,,,,,,,,,,,,,
+19,WH-Cynthiaport,East Brian,30760,Eileen Randolph,,,,,,,,,,,CREATE TABLE Purchase_Orders (,,
+20,WH-North Coreyburgh,Russellberg,32103,John Jones,,,,,,,,,,,PO_ID,INT,","
+21,WH-Port Mariaborough,Cindyfort,26198,Stephanie Small,,,,,,,,,,,Supplier_ID,INT,","
+22,WH-South David,Lake Brianchester,34549,Patricia Johnson,,,,,,,,,,,Product_ID,INT,","
+23,WH-Aaronville,Port Kelly,6632,Sarah Vasquez,,,,,,,,,,,Order_Date,DATE,","
+24,WH-Kristenchester,East Justin,16722,Elizabeth Evans,,,,,,,,,,,Expected_Date,DATE,","
+25,WH-East Brenda,Keithchester,34732,Alexandra Myers,,,,,,,,,,,Actual_Date,DATE,","
+26,WH-Nicholashaven,Port Jeffery,43686,Robert Padilla,,,,,,,,,,,Quantity,INT,","
+27,WH-Riggsborough,West William,18233,Michelle Patterson,,,,,,,,,,,PO_Status,VARCHAR,
+28,WH-Zoefort,Port Jacobside,34798,Tina Hall,,,,,,,,,,,);,,
+29,WH-Gouldside,North Jonathan,10910,Wendy Winters,,,,,,,,,,,,,
+30,WH-Port Michael,Robinsonshire,21389,Christopher Alexander,,,,,,,,,,,CREATE TABLE Sales (,,
+,,,,,,,,,,,,,,,Order_ID,INT,","
+,,,,,,,,,,,,,,,Date,DATE,","
+,,,,,,,,,,,,,,,Product_ID,INT,","
+,,,,,,,,,,,,,,,Region,VARCHAR,","
+,,,,,,,,,,,,,,,Quantity,INT,","
+,,,,,,,,,,,,,,,Sales_Amount,"NUMERIC (10, 2)",","
+,,,,,,,,,,,,,,,Customer_Type,VARCHAR,","
+,,,,,,,,,,,,,,,Channel,VARCHAR,
+,,,,,,,,,,,,,,,);,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,CREATE TABLE Shipments (,,
+,,,,,,,,,,,,,,,Shipment_ID,INT,","
+,,,,,,,,,,,,,,,Order_ID,INT,","
+,,,,,,,,,,,,,,,Dispatch_Date,DATE,","
+,,,,,,,,,,,,,,,Delivery_Date,DATE,","
+,,,,,,,,,,,,,,,Carrier,VARCHAR,","
+,,,,,,,,,,,,,,,Delivery_Status,VARCHAR,","
+,,,,,,,,,,,,,,,Delay_Days,INT,
+,,,,,,,,,,,,,,,);,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,CREATE TABLE Suppliers (,,
+,,,,,,,,,,,,,,,Supplier_ID,INT,","
+,,,,,,,,,,,,,,,Supplier_Name,VARCHAR,","
+,,,,,,,,,,,,,,,Country,VARCHAR,","
+,,,,,,,,,,,,,,,Lead_Time_Days,INT,","
+,,,,,,,,,,,,,,,Rating,"NUMERIC (10, 2)",","
+,,,,,,,,,,,,,,,Contact_Type,VARCHAR,
+,,,,,,,,,,,,,,,);,,
+,,,,,,,,,,,,,,,CREATE TABLE Warehouses (,,
+,,,,,,,,,,,,,,,Warehouse_ID,INT,","
+,,,,,,,,,,,,,,,Warehouse_Name,VARCHAR,","
+,,,,,,,,,,,,,,,City,VARCHAR,","
+,,,,,,,,,,,,,,,Capacity,INT,","
+,,,,,,,,,,,,,,,Manager,VARCHAR,
+,,,,,,,,,,,,,,,);,,
